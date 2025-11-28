@@ -139,6 +139,15 @@ const knownProducts = {
     hasJetFocus: true,
     hasOscillation: true,
   },
+  '527M': {
+    model: 'Dyson Purifier Hot+Cool',
+    hardwareRevision: 'HP11',
+    hasAdvancedAirQualitySensors: true,
+    hasTemperatureAndHumiditySensors: true,
+    hasHeating: true,
+    hasHumidifier: false,
+    hasOscillation: true,
+  },
   '664': {
     model: 'Dyson Purifier Big+Quiet Formaldehyde',
     hardwareRevision: 'BP02/BP03/BP04/BP06',
